@@ -1,4 +1,4 @@
-![MasterHead](https://assets.owebest.com/files/Blogs/bg_img/4f3a2b1f5d56d05af5e7c16053d31bbd/blog-banner(22).jpg)
+![MasterHead](https://drive.google.com/file/d/1goU8jrnbNSSWert0pPalwp8C_WVllLsb/view)
 <h1 align="center">Hi 👋, I'm Malik Hunain</h1>
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
