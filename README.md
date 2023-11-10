@@ -1,4 +1,4 @@
-![MasterHead](https://i.postimg.cc/nhGqthTd/1622416214334.jpg)
+![MasterHead](https://i.postimg.cc/vTcJMdcd/2000-600px.gif)
 <h1 align="center">Hi 👋, I'm Malik Hunain</h1>
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
