@@ -1,4 +1,4 @@
-![MasterHead](https://www.bing.com/images/create/create-a-vertical-header-image-for-my-github-profi/1-654eba18cb574f0382b7163c84f766ae?id=W0N4V1yTsddB8rOsFVQwyw%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay)
+![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 <h1 align="center">Hi 👋, I'm Malik Hunain</h1>
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
